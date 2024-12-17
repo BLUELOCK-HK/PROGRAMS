@@ -26,7 +26,7 @@ HTML5: Used for structuring the content of the webpage.
 
 git clone https://github.com/BLUELOCK-HK/PROGRAMS
 
-Open the PSWP.html file in any web browser.
+Open the **PSWP.html** file in any web browser.
 
 **Games Included**:
 
