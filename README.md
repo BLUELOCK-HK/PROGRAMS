@@ -28,7 +28,7 @@ This project is a simple HTML webpage showcasing some of the best PlayStation ga
 
 - Open the **PSWP.html** file in any web browser.
 
-**Games Included**:
+**Games Images Included**:
 
  **1**-God of War
 
