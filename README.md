@@ -30,15 +30,15 @@ This project is a simple HTML webpage showcasing some of the best PlayStation ga
 
 **Games Included**:
 
-**1.**God of War
+**1**God of War
 
-**2.**Uncharted: Legacy of Thieves Collection
+**2**Uncharted: Legacy of Thieves Collection
 
-**3.**The Last of Us Part-1
+**3**The Last of Us Part-1
 
-**4.**Days Gone
+**4**Days Gone
 
-**5.**Horizon Zero Dawn
+**5**Horizon Zero Dawn
 
 **DEMO LINK**:
 
