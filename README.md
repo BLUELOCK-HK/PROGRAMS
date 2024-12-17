@@ -24,7 +24,7 @@ This project is a simple HTML webpage showcasing some of the best PlayStation ga
 
 **How to View the Webpage**:
 
-- Git clone https://github.com/BLUELOCK-HK/PROGRAMS
+- Git clone https://github.com/BLUELOCK-HK/PROGRAMS.git
 
 - Open the **PSWP.html** file in any web browser.
 
